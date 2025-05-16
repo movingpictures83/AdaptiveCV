@@ -1,0 +1,2 @@
+Prefix plugins/AdaptiveCV/example/
+Plugin AdaptiveCV inputfile none outputfile output.rds
